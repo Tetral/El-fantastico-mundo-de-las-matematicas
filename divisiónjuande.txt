@@ -1,7 +1,0 @@
-#función división:
-#aaa
-a=10;
-b=2;
-div=a/b;
-
-#Juan de Dios López Pasadas
