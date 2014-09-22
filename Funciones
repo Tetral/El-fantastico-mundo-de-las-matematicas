@@ -50,3 +50,7 @@ perimetro = lado * 4
 n=2;
 cuadrado = n*n;
 cubo = n*n*n;
+
+#Factorial
+n=3;
+factorial=1*2*3;
