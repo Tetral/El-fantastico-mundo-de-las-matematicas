@@ -30,3 +30,8 @@ total=n1/n2
 numero1=20
 numero2=5
 total=(numero1*numero2)/100
+
+#operacion areaTriangulo
+base=20;
+altura=30;
+total= (base*altura)/2;
