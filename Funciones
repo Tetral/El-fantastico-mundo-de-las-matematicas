@@ -54,3 +54,8 @@ cubo = n*n*n;
 #Factorial
 n=3;
 factorial=(n-2)*(n-1)*n;
+
+#Modulo
+a = -1.1; 
+b = -0.7; 
+modulo=a%b; 
