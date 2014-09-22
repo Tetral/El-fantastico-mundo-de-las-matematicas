@@ -41,3 +41,7 @@ total= (base*altura)/2;
 radio=2
 pi=3.14
 perimetro=2*pi*radio
+
+#Perimetro Cuadrado
+lado = 2
+perimetro = lado * 4
