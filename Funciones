@@ -53,4 +53,4 @@ cubo = n*n*n;
 
 #Factorial
 n=3;
-factorial=1*2*3;
+factorial=(n-2)*(n-1)*n;
