@@ -35,3 +35,9 @@ total=(numero1*numero2)/100
 base=20;
 altura=30;
 total= (base*altura)/2;
+
+
+#operacion perimetro circulo
+radio=2
+pi=3.14
+perimetro=2*pi*radio
