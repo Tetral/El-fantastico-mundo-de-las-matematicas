@@ -59,3 +59,8 @@ factorial=(n-2)*(n-1)*n;
 a = -1.1; 
 b = -0.7; 
 modulo=a%b; 
+
+
+#Vida de un pinero
+
+Vivio y se murio
